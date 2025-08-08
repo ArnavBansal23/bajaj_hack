@@ -1,6 +1,6 @@
 # Insurance Claim System - HackRX 6.0
 
-This project consists of a **FastAPI backend** for an AI-powered insurance document analysis system built for the HackRX 6.0 competition.
+This project consists of a **FastAPI backend** for an AI-powered insurance document analysis system built for the Bajaj-HackRX 6.0 competition.
 
 ## 🚀 Setup Instructions
 
