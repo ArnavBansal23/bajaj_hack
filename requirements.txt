@@ -1,0 +1,23 @@
+# FastAPI and server dependencies
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+python-multipart==0.0.6
+python-dotenv==1.0.0
+
+# Document processing
+pdfplumber==0.10.3
+python-docx==1.1.2
+aiofiles==23.2.1
+aiohttp==3.9.5
+
+# Embedding and ML models
+sentence-transformers==2.6.1
+torch>=1.13.0
+transformers>=4.21.0
+
+# LLM API
+google-generativeai>=0.3.0
+
+# Data handling and validation
+pydantic==1.10.13
+numpy==1.26.4
