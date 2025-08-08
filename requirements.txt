@@ -12,7 +12,8 @@ aiohttp==3.9.5
 
 # Embedding and ML models
 sentence-transformers==2.6.1
-torch>=1.13.0
+#torch>=1.13.0
+torch --index-url https://download.pytorch.org/whl/cpu
 transformers>=4.21.0
 
 # LLM API
