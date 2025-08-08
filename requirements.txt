@@ -21,3 +21,5 @@ google-generativeai>=0.3.0
 # Data handling and validation
 pydantic==1.10.13
 numpy==1.26.4
+
+gunicorn==22.0.0
