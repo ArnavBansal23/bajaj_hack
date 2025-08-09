@@ -1,3 +1,10 @@
+---
+title: Bajaj Hack API
+emoji: 🤖
+sdk: docker
+app_port: 7860
+---
+
 # Insurance Claim System - Bajaj-HackRX 6.0
 
 This project consists of a **FastAPI backend** for an AI-powered insurance document analysis system built for the Bajaj-HackRX 6.0 competition.
