@@ -1,0 +1,22 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore venvs
+venv/
+.env/
+.venv/
+
+# Ignore git and related files
+.git
+.gitignore
+
+# Ignore macOS/IDE files
+.DS_Store
+.idea
+.vscode
+
+# Ignore test files if not needed in container
+tests/
